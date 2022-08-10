@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="0c4e7c67-fb93-4d4c-a502-35e60a25a69f">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ЮридическоеФизическоеЛицо" category="Ref">
+				<xr:TypeId>b959e1b6-9a40-49d8-a68e-b16f939777e3</xr:TypeId>
+				<xr:ValueId>493ad1b5-d1a1-4272-b815-084345006b54</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ЮридическоеФизическоеЛицо" category="Manager">
+				<xr:TypeId>f2086923-1f2b-47c5-977c-75cf2fa118ec</xr:TypeId>
+				<xr:ValueId>269fdf03-51dc-4c75-943b-733fd450c8cc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ЮридическоеФизическоеЛицо" category="List">
+				<xr:TypeId>eebdefc4-71c1-4a57-b9f5-f662ec2dc910</xr:TypeId>
+				<xr:ValueId>67413be5-c4fd-4663-abb0-0e6e4767f9d2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ЮридическоеФизическоеЛицо</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="e1a4c7b1-d3cc-404d-94d0-cf75a4d1ecb6">
+				<InternalInfo/>
+				<Properties>
+					<Name>ЮридическоеЛицо</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="0455148c-3e9f-4e22-9c81-03716b40a305">
+				<InternalInfo/>
+				<Properties>
+					<Name>ФизическоеЛицо</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

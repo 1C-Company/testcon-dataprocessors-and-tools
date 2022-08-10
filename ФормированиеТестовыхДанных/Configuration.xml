@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Configuration uuid="4fcb9807-8cbe-4a9a-957f-ba2c4322a91c">
+		<InternalInfo>
+			<xr:ContainedObject>
+				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
+				<xr:ObjectId>59ef1a05-50f2-4693-9245-20b289495424</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
+				<xr:ObjectId>a4ec35c2-9e6b-4970-a445-c9cc9181646f</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
+				<xr:ObjectId>794b1243-809c-442f-9151-4385cf62cd2d</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
+				<xr:ObjectId>4e38645f-7be1-4ef3-b2d2-c78643235a86</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
+				<xr:ObjectId>3d9350eb-361c-46e8-8b5d-55254d9899ba</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>19910d25-7b75-460c-8bef-11f910f160ba</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
+				<xr:ObjectId>e09ad784-e62c-4fa8-a4c0-ffe00d770c8e</xr:ObjectId>
+			</xr:ContainedObject>
+		</InternalInfo>
+		<Properties>
+			<Name>ФормированиеТестовыхДанных</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Формирование тестовых данных контрагентов и организаций</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Предназначено для упрощения работы в демо-базе. Заполняет в контрагентах и организациях ИНН, КПП, ОГРН и расчетные счета.</Comment>
+			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
+			<NamePrefix>ФормированиеТестовыхДанных_</NamePrefix>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_10</ConfigurationExtensionCompatibilityMode>
+			<ScriptVariant>Russian</ScriptVariant>
+			<Vendor>Фирма "1С"</Vendor>
+			<Version>2.11.0</Version>
+			<BriefInformation/>
+			<DetailedInformation/>
+			<Copyright/>
+			<VendorInformationAddress/>
+			<ConfigurationInformationAddress/>
+		</Properties>
+		<ChildObjects>
+			<Language>Русский</Language>
+			<StyleItem>НадписьПоясняющаяГиперссылку</StyleItem>
+			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>ПросроченныеДанныеЦвет</StyleItem>
+			<StyleItem>БыстрыеОтборыФонГруппы</StyleItem>
+			<StyleItem>ТекстПредопределенногоЗначения</StyleItem>
+			<StyleItem>ТекстЗапрещеннойЯчейкиЦвет</StyleItem>
+			<StyleItem>ТекстИнформационнойНадписи</StyleItem>
+			<StyleItem>ЦветФонаБлоковИнформационнойПанели</StyleItem>
+			<StyleItem>ЦветТекстаНекорректногоКонтрагента</StyleItem>
+			<StyleItem>ДосьеГиперссылкаЦвет</StyleItem>
+			<CommonTemplate>СловаДляНаименований</CommonTemplate>
+			<CommonModule>ФормированиеТестовыхДанных</CommonModule>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>БанковскиеСчета</Catalog>
+			<Catalog>Валюты</Catalog>
+			<Catalog>ВидыКонтактнойИнформации</Catalog>
+			<Catalog>Банки</Catalog>
+			<Catalog>СтраныМира</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>РегистрацииВНалоговомОргане</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>ПодразделенияОрганизаций</Catalog>
+			<Enum>ВидыГосударственныхОрганов</Enum>
+			<Enum>ТипыКонтактнойИнформации</Enum>
+			<Enum>ЮридическоеФизическоеЛицо</Enum>
+			<Enum>ВариантыНаименованияДляПечатныхФорм</Enum>
+		</ChildObjects>
+	</Configuration>
+</MetaDataObject>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.Банки" id="90b85b76-ee17-4a27-8c73-d94a4fa3c692" configVersion="bcc507e74e56ad44582a8d9311bdf6a4484e7cd7"/>
+		<Metadata name="Catalog.БанковскиеСчета" id="672d37f4-ae46-4e0f-bfca-16e788d2cadf" configVersion="1959e9b6d26d809847e7d3d45e59ee1ecba11562">
+			<Metadata name="Catalog.БанковскиеСчета.Attribute.ВалютаДенежныхСредств" id="bf74d4be-207b-4830-81f4-0e84651dc73a"/>
+			<Metadata name="Catalog.БанковскиеСчета.Attribute.Банк" id="d1ab7671-8e7c-4dad-b8ef-1629a3cf9191"/>
+			<Metadata name="Catalog.БанковскиеСчета.Attribute.НомерСчета" id="db7fcf1b-7c3e-47a0-b1a2-71d769ea98f7"/>
+		</Metadata>
+		<Metadata name="Catalog.БанковскиеСчета.Form.ФормаЭлемента" id="f45a902d-a66c-42c0-b3c5-edb8f627e844" configVersion="08075d3f5c9926e8b101d7c4df385cb6c67383ea"/>
+		<Metadata name="Catalog.БанковскиеСчета.Form.ФормаЭлемента.Form" id="f45a902d-a66c-42c0-b3c5-edb8f627e844.0" configVersion="121c493bd19cf46c41bcc1630d1840218604cc22"/>
+		<Metadata name="Catalog.Валюты" id="ba427672-e557-4a0c-97f4-dce7c0f6b2fb" configVersion="d3709d425cce02cb5b92d497389ed599611a534c"/>
+		<Metadata name="Catalog.ВидыКонтактнойИнформации" id="d1bcb072-5ded-412a-894a-6a94d9e1282e" configVersion="56d1951c11aa74a032fe23e84e79d6f5ea3f3cf1"/>
+		<Metadata name="Catalog.Контрагенты" id="c7b952bc-8595-4149-9919-a8e1b9df2341" configVersion="d639f69de55fa2e67d949a6cd33e569ed2924708">
+			<Metadata name="Catalog.Контрагенты.Attribute.ОбособленноеПодразделение" id="1a062bfc-9fa5-4750-b369-1227a335f279"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="709f8c90-4b39-4d46-8370-80432388a284"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ГосударственныйОрган" id="952cd8d9-9a4f-416e-9d96-fd2b029f62cc"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="960bdb5d-eaf6-41d0-b329-b9d7f868d626"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЮридическоеФизическоеЛицо" id="b00ee141-e18b-4527-9c98-6c77f5007d35"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.КодГосударственногоОргана" id="b52cc9fd-8b27-410d-a14f-3cd230016464"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.НаименованиеПолное" id="eb2d7f9d-db8d-4bfa-ae2c-cb9a893640bb"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.РегистрационныйНомер" id="fdd4f378-3466-4992-91bf-2b73e3c544e7"/>
+		</Metadata>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента" id="4c749cea-6ce3-4bc5-8b1f-c407aa85f95d" configVersion="d7331090125db7cb8af606b9b3911b59e70debcd"/>
+		<Metadata name="Catalog.Контрагенты.Form.ФормаЭлемента.Form" id="4c749cea-6ce3-4bc5-8b1f-c407aa85f95d.0" configVersion="cfc3f2aee65c2906e6130eca9c3891ec35465b63"/>
+		<Metadata name="Catalog.Организации" id="60131857-71f3-4ece-a49e-b1c354904a18" configVersion="cf6f5c90575392c0d2d2e78dce0af79ad5a20294">
+			<Metadata name="Catalog.Организации.Attribute.НаименованиеСокращенное" id="2f5589f5-13b1-43e0-bb84-b4f2b3499c46"/>
+			<Metadata name="Catalog.Организации.Attribute.КодНалоговогоОргана" id="43a79d83-adc7-4474-9c00-081bafd28e8e"/>
+			<Metadata name="Catalog.Организации.Attribute.КПП" id="56355da9-51e5-4c92-978d-db60f9d919d2"/>
+			<Metadata name="Catalog.Организации.Attribute.НаименованиеПолное" id="6d055a4e-5aee-41a9-a2d3-082ee486a252"/>
+			<Metadata name="Catalog.Организации.Attribute.ОГРН" id="b1351ba9-1369-482f-acbb-450c6b35a379"/>
+			<Metadata name="Catalog.Организации.Attribute.ИНН" id="ca7c8bae-7c32-4252-b55c-f201fb76d826"/>
+			<Metadata name="Catalog.Организации.Attribute.ОбособленноеПодразделение" id="f5d6ec09-c9c5-470f-b596-b9b330cd0822"/>
+		</Metadata>
+		<Metadata name="Catalog.Организации.Form.ФормаОрганизации" id="9417b6e4-29fa-435c-a81c-3ef8917e8f4a" configVersion="553dd34119cd3048cba18e921e84e996d1273a04"/>
+		<Metadata name="Catalog.Организации.Form.ФормаОрганизации.Form" id="9417b6e4-29fa-435c-a81c-3ef8917e8f4a.0" configVersion="7f2b1020d91e35b56c4e11706147b085bfa7a332"/>
+		<Metadata name="Catalog.ПодразделенияОрганизаций" id="44ec686d-a755-496f-9881-1537fb19a192" configVersion="7e5f5442edd389e51e93671e0e527fde797fa414"/>
+		<Metadata name="Catalog.РегистрацииВНалоговомОргане" id="a57d51cf-dc3c-4721-9db2-d14137c220b6" configVersion="eb19b6fcb9cbe66d5d1396b7ba9e9e0f6ef5f76e">
+			<Metadata name="Catalog.РегистрацииВНалоговомОргане.Attribute.КодПоОКТМО" id="2aeba01e-d085-4660-9f17-be42718fd882"/>
+			<Metadata name="Catalog.РегистрацииВНалоговомОргане.Attribute.НаименованиеИФНС" id="b15cb194-4051-4502-bc77-1de8c77c3f22"/>
+			<Metadata name="Catalog.РегистрацииВНалоговомОргане.Attribute.КодПоОКАТО" id="b299c7c1-546f-4ee7-9b24-b63247a077cf"/>
+		</Metadata>
+		<Metadata name="Catalog.СтраныМира" id="2de8d319-58db-4ff1-ac94-d668aba0d7e3" configVersion="ee5466683ee0216fe7852a20444d0b629fb15623"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="3461f5a4-78a5-4363-b082-2c03dc2e0bc0" configVersion="ccdd768f7d7dd07a1756f8ce450c0f243195f348"/>
+		<Metadata name="CommonModule.ФормированиеТестовыхДанных" id="afcd8895-0cc9-41ec-98ae-be4af343436b" configVersion="728b600009efedcb7c4bc0de168819879d887ae7"/>
+		<Metadata name="CommonModule.ФормированиеТестовыхДанных.Module" id="afcd8895-0cc9-41ec-98ae-be4af343436b.0" configVersion="65647ec59a749440b4acc4a3cb65148e3f49ea3a"/>
+		<Metadata name="CommonTemplate.СловаДляНаименований" id="c0d27aa2-38cd-4d75-898b-62fec0f7e4a8" configVersion="b492a24fe0235035680cad864cb72312a7f212f6"/>
+		<Metadata name="CommonTemplate.СловаДляНаименований.Template" id="c0d27aa2-38cd-4d75-898b-62fec0f7e4a8.0" configVersion="216e4f8004cf35ac6206b7111bca622ace3418d9"/>
+		<Metadata name="Configuration.ФормированиеТестовыхДанных" id="4fcb9807-8cbe-4a9a-957f-ba2c4322a91c" configVersion="1a099653cd4356eb5f89432c322b4e99e805f0b7"/>
+		<Metadata name="Enum.ВариантыНаименованияДляПечатныхФорм" id="de1804fc-d3e0-4f0e-8893-e1f2fe3a4b7f" configVersion="5ee67b7efba40aed941d17e15c74a61bd3cfdcab">
+			<Metadata name="Enum.ВариантыНаименованияДляПечатныхФорм.EnumValue.ПолноеНаименование" id="888f14c0-fca0-4809-9420-92a42dc913f5"/>
+			<Metadata name="Enum.ВариантыНаименованияДляПечатныхФорм.EnumValue.СокращенноеНаименование" id="e223083d-9eeb-4104-af80-cca9d0402128"/>
+		</Metadata>
+		<Metadata name="Enum.ВидыГосударственныхОрганов" id="5e314d91-c217-4b62-81db-ac7f144a096b" configVersion="dbc88237e54289169756493060cb12d48f277177"/>
+		<Metadata name="Enum.ТипыКонтактнойИнформации" id="104a5811-41ef-4e0d-8318-be3671ef15a4" configVersion="a02c5dde583d5877203e0dfd36871c8e49f14d8b"/>
+		<Metadata name="Enum.ЮридическоеФизическоеЛицо" id="0c4e7c67-fb93-4d4c-a502-35e60a25a69f" configVersion="c63e9b2c5bda133bd202eb1103d0588596cc5bc2">
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ФизическоеЛицо" id="0455148c-3e9f-4e22-9c81-03716b40a305"/>
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ЮридическоеЛицо" id="e1a4c7b1-d3cc-404d-94d0-cf75a4d1ecb6"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="350c733d-78e9-44a1-86a3-a4d8cf6bfd0b" configVersion="5e4243dc969cac1a706c5d938e6537d2e21f64e5"/>
+		<Metadata name="StyleItem.БыстрыеОтборыФонГруппы" id="b07419c4-ada0-49d5-8ba4-4837c533c275" configVersion="8248cf139dff1e94c1ebc235473aa6cb019a831b"/>
+		<Metadata name="StyleItem.ДосьеГиперссылкаЦвет" id="647c3a71-2330-4aa2-b1de-836e06368090" configVersion="6f6751b1330ec56aaf24b77e7bd47778f952c4a1"/>
+		<Metadata name="StyleItem.НадписьПоясняющаяГиперссылку" id="d44efef3-da72-4d62-a1a2-3fc5a55e23b8" configVersion="166d6343b140ca68cf5da3762d3b79203fb752d9"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="ef7ef285-f2d0-4b96-88af-41164552f189" configVersion="b8f66d4c37698614884c349b8c68f41710db8026"/>
+		<Metadata name="StyleItem.ПросроченныеДанныеЦвет" id="95ead223-255f-40de-a4f5-e55ff142d84f" configVersion="0ee1af55167d3a61a4fb00e5721cb8ba0f92e1d6"/>
+		<Metadata name="StyleItem.ТекстЗапрещеннойЯчейкиЦвет" id="10513c44-d05f-47d7-8394-e092410be20a" configVersion="7f3026799c5e17ed0da441d5793cf9fa76cdddd9"/>
+		<Metadata name="StyleItem.ТекстИнформационнойНадписи" id="88495a9e-13e3-49ef-9bc9-ad341244259a" configVersion="b89e62720d610ee00550cfbd6ba960fec63a58b4"/>
+		<Metadata name="StyleItem.ТекстПредопределенногоЗначения" id="95c61fc1-24e8-4a30-9ed2-41ece35f21a3" configVersion="4a0906428efa6b779d2837bbe7c6abe3983c4b34"/>
+		<Metadata name="StyleItem.ЦветТекстаНекорректногоКонтрагента" id="f8e6c396-be21-4aa2-b427-14fc2db58385" configVersion="cd33d70c630095daf28230815597016da01903ca"/>
+		<Metadata name="StyleItem.ЦветФонаБлоковИнформационнойПанели" id="7c15bcf8-2201-4c83-b827-41fea55dfc44" configVersion="b2da13388fc7360cb4d6feea3c652481d71f09c7"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

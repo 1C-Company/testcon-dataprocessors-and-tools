@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Enum uuid="de1804fc-d3e0-4f0e-8893-e1f2fe3a4b7f">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ВариантыНаименованияДляПечатныхФорм" category="Ref">
+				<xr:TypeId>85b44ce1-dd64-49ae-99d2-c5f71ae2edb4</xr:TypeId>
+				<xr:ValueId>195af66b-99a4-433c-b15c-debf0cd5fb5f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ВариантыНаименованияДляПечатныхФорм" category="Manager">
+				<xr:TypeId>df64826a-0859-4791-ae0c-78621e6d311e</xr:TypeId>
+				<xr:ValueId>d6049074-b13c-43b1-bef5-82f1444347fd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ВариантыНаименованияДляПечатныхФорм" category="List">
+				<xr:TypeId>99344e14-99ca-4a42-99f4-967c831c1f75</xr:TypeId>
+				<xr:ValueId>15e7f3fa-afec-424c-b289-27c34903a023</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ВариантыНаименованияДляПечатныхФорм</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="888f14c0-fca0-4809-9420-92a42dc913f5">
+				<InternalInfo/>
+				<Properties>
+					<Name>ПолноеНаименование</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="e223083d-9eeb-4104-af80-cca9d0402128">
+				<InternalInfo/>
+				<Properties>
+					<Name>СокращенноеНаименование</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

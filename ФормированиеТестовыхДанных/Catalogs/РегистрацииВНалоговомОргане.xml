@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
+	<Catalog uuid="a57d51cf-dc3c-4721-9db2-d14137c220b6">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.РегистрацииВНалоговомОргане" category="Object">
+				<xr:TypeId>63ccb463-a3c4-4a8c-a281-6335f05cd80e</xr:TypeId>
+				<xr:ValueId>e6ab5aab-70ea-4f67-a3b5-91f76ecbabfd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.РегистрацииВНалоговомОргане" category="Ref">
+				<xr:TypeId>41c93608-f4f8-448a-9745-bfb69c665b93</xr:TypeId>
+				<xr:ValueId>8518d416-8383-41db-9300-1d81995a55e4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.РегистрацииВНалоговомОргане" category="Selection">
+				<xr:TypeId>e29f3e1e-ba8e-4657-a126-0815055b19d8</xr:TypeId>
+				<xr:ValueId>65810c1c-87dc-4c77-93ec-c91c0e93b58c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.РегистрацииВНалоговомОргане" category="List">
+				<xr:TypeId>c2f270fc-84f3-45e9-b9ab-764111fdf490</xr:TypeId>
+				<xr:ValueId>4c0c4c57-81d2-45cd-b513-0d99ea7670af</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.РегистрацииВНалоговомОргане" category="Manager">
+				<xr:TypeId>0363383f-0b58-4ed8-84ac-22eb8c9f3e2a</xr:TypeId>
+				<xr:ValueId>0f01ee40-b7b2-4bd2-97f4-af9ae35fb80b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>РегистрацииВНалоговомОргане</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<DescriptionLength>50</DescriptionLength>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="b15cb194-4051-4502-bc77-1de8c77c3f22">
+				<InternalInfo/>
+				<Properties>
+					<Name>НаименованиеИФНС</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>254</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="2aeba01e-d085-4660-9f17-be42718fd882">
+				<InternalInfo/>
+				<Properties>
+					<Name>КодПоОКТМО</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>11</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="b299c7c1-546f-4ee7-9b24-b63247a077cf">
+				<InternalInfo/>
+				<Properties>
+					<Name>КодПоОКАТО</Name>
+					<Comment/>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>11</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

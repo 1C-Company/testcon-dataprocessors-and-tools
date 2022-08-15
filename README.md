@@ -15,3 +15,4 @@
 3. Нажимаем кнопку "Download"
 4. Готово!
 
+![Пример](img/DownloadTools.gif)

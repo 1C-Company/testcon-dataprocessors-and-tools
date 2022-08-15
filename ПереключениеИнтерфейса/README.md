@@ -18,4 +18,4 @@
 
 ## Пример обработки:
 
-![Пример](../img/CloneDocs.gif)
+![Пример](../img/SwitchInterface.png)

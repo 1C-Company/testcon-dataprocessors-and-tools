@@ -1,5 +1,10 @@
 @echo off
-set V8Bin=C:\Program Files\1cv8\8.3.18.1741\bin
+
+set SCRIPT_DIR=%~dp0
+
+set /p VERSION=<"%SCRIPT_DIR%platform_version.txt"
+
+set V8Bin=C:\Program Files\1cv8\%VERSION%\bin
 
 set BuildFolder=%cd%
 
